@@ -1,0 +1,1 @@
+print("Nazar Machekhin, CS-2, group 7, 2024")
